@@ -1,0 +1,14 @@
+F:\VScode\C#\Project_0\pr_0\bin\Debug\net9.0\pr_0.exe
+F:\VScode\C#\Project_0\pr_0\bin\Debug\net9.0\pr_0.deps.json
+F:\VScode\C#\Project_0\pr_0\bin\Debug\net9.0\pr_0.runtimeconfig.json
+F:\VScode\C#\Project_0\pr_0\bin\Debug\net9.0\pr_0.dll
+F:\VScode\C#\Project_0\pr_0\bin\Debug\net9.0\pr_0.pdb
+F:\VScode\C#\Project_0\pr_0\obj\Debug\net9.0\pr_0.GeneratedMSBuildEditorConfig.editorconfig
+F:\VScode\C#\Project_0\pr_0\obj\Debug\net9.0\pr_0.AssemblyInfoInputs.cache
+F:\VScode\C#\Project_0\pr_0\obj\Debug\net9.0\pr_0.AssemblyInfo.cs
+F:\VScode\C#\Project_0\pr_0\obj\Debug\net9.0\pr_0.csproj.CoreCompileInputs.cache
+F:\VScode\C#\Project_0\pr_0\obj\Debug\net9.0\pr_0.dll
+F:\VScode\C#\Project_0\pr_0\obj\Debug\net9.0\refint\pr_0.dll
+F:\VScode\C#\Project_0\pr_0\obj\Debug\net9.0\pr_0.pdb
+F:\VScode\C#\Project_0\pr_0\obj\Debug\net9.0\pr_0.genruntimeconfig.cache
+F:\VScode\C#\Project_0\pr_0\obj\Debug\net9.0\ref\pr_0.dll
